@@ -1,6 +1,10 @@
 // Problem :- find combination of pair  from array  which sum given by user 
 // Ankit Jodhani 
 // 19se02it019
+//
+// this is temparoy code that i wnat to right her
+// do you have any kind of problem 
+//
 #include <iostream>
 using namespace std;
  
